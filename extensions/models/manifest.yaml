@@ -1,10 +1,11 @@
 manifestVersion: 1
 name: "@mgreten/pr-browser-test-planner"
-version: "2026.08.26.1"
+version: "2026.10.14.1"
 description: >
   Generate safe, validated browser test plans from GitHub pull requests using
   a configurable target application and @mgreten/cli-agent.
 repository: https://github.com/meagerfindings/swamp-pr-browser-test-planner
+license: MIT
 website: https://github.com/meagerfindings/swamp-pr-browser-test-planner#readme
 models:
   - pr_browser_test_planner.ts
